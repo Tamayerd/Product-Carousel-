@@ -8,13 +8,7 @@ This project is a JavaScript-based product carousel for the LC Waikiki website, 
 - Clicking on a product opens its respective product page in a new tab.
 - Enables users to "favorite" products, storing their preferences in local storage.
 
-## Usage
-1. Copy the JavaScript code from `product-carousel.js`.
-2. Open the Chrome Developer Tools console on the LC Waikiki product page.
-3. Paste and execute the JavaScript code in the console.
 
-## Structure
-- `product-carousel.js`: The main JavaScript file that implements the product carousel and related features.
 
 ## How it works
 1. The script fetches product data from an external JSON file or retrieves it from local storage.
